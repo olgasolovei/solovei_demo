@@ -1,6 +1,6 @@
 <div hidden>
 ```
-@startwbs
+@startwbs BusinessDiagram
 + Бізнес-проблема: Управління запасами є дорогим*
 ++ Бізнес - проблема 1
 +++ Бізнес - мета 1
@@ -15,3 +15,4 @@
 @endwbs
 ```
 </div>
+![](BusinessDiagram.svg)
